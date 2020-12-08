@@ -15,7 +15,7 @@ namespace SPCoreApi.Migrations
                                     AS
                                     BEGIN
 
-                                    INSERT INTO UserProfiles(
+                                    INSERT INTO MemberProfiles(
                                         EmailAddress, 
                                         UserName, 
                                         ContactNumber, 
